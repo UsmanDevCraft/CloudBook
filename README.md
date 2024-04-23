@@ -1,0 +1,2 @@
+# Cloudbook
+ This an online notes saving web app which is used to store the data of a specific user only. Using the Login and Signup, one can easily make an account and login to create, read, update and delete their notes. This is made from React  + vite, MongoDb to store data, Express to make APIs and Node for backend, and bootstrap for responsiveness. you can vist website at https://cloudbook-kappa.vercel.app/ .
